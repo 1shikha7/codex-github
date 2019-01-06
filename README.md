@@ -60,7 +60,7 @@ Contributions of Codex members on Github
 | Nehal Kumar Singh | [geekyNehal](https://github.com/geekyNehal)
 | Omm Mishra | [ommmishra](https://github.com/ommmishra)
 | Simran Agrawal | [SimranAgrawal1](https://github.com/SimranAgrawal1)
-| Shikha Kumari | [shikhanimmi](https://github.com/shikhanimmi)
+| Shikha Kumari | [1shikha7](https://github.com/1shikha7)
 | Kumar Arunav | [KumarArunav](https://github.com/KumarArunav)
 | Dipannita Mahata | [dipu-m18](https://github.com/dipu-m18)
 | Shikha Singh | [SHIKHASINGH1506](https://github.com/SHIKHASINGH1506)
